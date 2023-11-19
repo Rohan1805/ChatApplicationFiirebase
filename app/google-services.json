@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508890635638",
+    "project_id": "chat-application-72ad0",
+    "storage_bucket": "chat-application-72ad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508890635638:android:fde06931c311825424ae57",
+        "android_client_info": {
+          "package_name": "com.rohan.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDD5e9Ld_5wrPJX7pcUKSL7U56Lex5TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
